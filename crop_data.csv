@@ -1,0 +1,4 @@
+species,genome_size_gb,chromosome_number_2n,ploidy,selfing_rate_min,selfing_rate_max,generation_time_days_min,generation_time_days_max,fecundity_seeds_min,fecundity_seeds_max,mutation_rate_per_bp_per_gen,recombination_rate_cM_Mb,generation_time_days_controlled_min,generation_time_days_controlled_max,DFE_shape_parameter,dominance_h_min,dominance_h_max
+Lactuca_sativa,2.5,18,2,0.95,0.99,30,40,15,25,7e-9,NA,30,40,gamma,0.2,0.3
+Solanum_lycopersicum,0.95,24,2,0.85,1.0,70,90,50,300,7e-9,11.22,70,90,gamma,0.2,0.3
+Triticum_aestivum,15.5,42,6,0.98,0.99,60,120,30,80,7e-9,variable,60,120,gamma,0.2,0.3
